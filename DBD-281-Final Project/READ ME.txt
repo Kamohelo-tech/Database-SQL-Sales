@@ -1,1 +1,0 @@
-I have sent the database on Teams as well. Once the database has been installed on the lecturer's side, all the code will work. From our side, all the code works well and has no issues
